@@ -1,4 +1,4 @@
-# void-xmonad and xmonad_install
+# xmonad_install script
 
 Bash script ready to install XMonad on your Void GNU/Linux X86_64 machine.
 
