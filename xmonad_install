@@ -1,5 +1,5 @@
 #!/bin/bash
-#xmonad_install v1.0
+# xmonad_install v1.0
 # Daniel Azevedo
 
     userlist="$(cut -d ":" -f1 /etc/passwd)"
@@ -61,4 +61,4 @@ cp -r xmobar/ ~/.config/
 cp -r Wallpaper/ ~/
 cp -r rofi/ ~/.config/
 cp -r dunst/ ~/.config/
-cp power_menu /usr/bin/
+sudo cp power_menu /usr/bin/
